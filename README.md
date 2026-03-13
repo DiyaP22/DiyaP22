@@ -1,5 +1,16 @@
-## Hi I'm Diya 👋
+<h1 align="center">Hi, I'm Diya 👋</h1>
 
+<p align="center">
+Computer Science @ SUNY Oswego • Data & AI Explorer
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Building+projects+with+real+data;Exploring+AI+tools;Always+learning+something+new&center=true&width=500&height=45">
+</p>
+
+I like building things with data, experimenting with AI tools, and turning messy datasets into something useful.
+
+Outside of coding you'll probably find me designing in Canva, dancing, planning campus events, or taking photos.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patel-diya-umesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diyaumeshpatel@gmail.com) 
